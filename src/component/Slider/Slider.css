@@ -1,0 +1,66 @@
+.bg-image {
+  background-image: url("../../Image/onepage-landing-img3.jpg");
+  position: relative;
+  background-size: cover;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  width: 100%;
+  height: 450px;
+}
+
+.opacity-medium-two {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0.5;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+.bg-black-two {
+  background: #000000 !important;
+}
+.white-text-two {
+  color: white !important;
+  letter-spacing: 1px;
+  font-weight: 700;
+  line-height: 45px;
+  letter-spacing: 1px;
+  font-family: inherit;
+}
+.header-one {
+  color: white !important;
+  position: relative;
+  top: 200px;
+  text-align: center;
+  color: white !important;
+}
+
+.bg-gray {
+  margin-top: 100px;
+  background-color: #f6f6f6;
+
+  width: 100%;
+  height: 80%;
+}
+
+.whereImage {
+  width: 60%;
+  height: auto;
+  text-align: right;
+}
+
+.width-90 {
+  width: 90%;
+}
+.text-med {
+  font-size: 14px !important;
+  line-height: 26px !important;
+  color: gray;
+}
+
+#right {
+  text-align: right;
+}

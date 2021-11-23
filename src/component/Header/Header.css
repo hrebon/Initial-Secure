@@ -1,0 +1,52 @@
+a:hover {
+  border-bottom: 2px solid black;
+}
+.image:hover {
+  border-bottom: 2px solid white;
+}
+a {
+  font-size: 11px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  text-align: center;
+  letter-spacing: 1px;
+  text-decoration: none;
+  background: transparent;
+}
+
+.link {
+  padding-left: 20px;
+}
+.navigation-bar {
+  margin-left: 0px;
+}
+img {
+  width: 30%;
+  height: 100%;
+}
+.sticky-nav {
+  height: 87px !important;
+}
+.bar {
+  min-height: 100px;
+  background-color: white !important;
+  border-bottom: 1px solid lightgray;
+}
+
+@media screen and (max-width: 780px) {
+  #navbarNav,
+  .active {
+    background-color: black;
+    color: white !important;
+    text-align: start;
+  }
+  .active:hover {
+    border-bottom: 2px solid rgb(163, 149, 149) !important;
+  }
+  a {
+    border-bottom: 2px solid black !important;
+  }
+  .bar {
+    background-color: black !important;
+  }
+}

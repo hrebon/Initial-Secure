@@ -1,0 +1,22 @@
+.bg-why {
+  margin-top: 40px;
+}
+
+.headingThree {
+  font-weight: 700;
+  line-height: 45px;
+  color: #000;
+  font-size: 36px;
+  letter-spacing: 1px;
+  font-family: inherit;
+  letter-spacing: 1px;
+}
+
+.width-70 {
+  width: 70% !important;
+}
+.center-block {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}

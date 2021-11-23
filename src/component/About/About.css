@@ -1,0 +1,62 @@
+.point {
+  margin-top: 100px;
+  text-align: center;
+}
+
+.no-margin-bottom {
+  margin-bottom: 0 !important;
+}
+.margin-two {
+  margin-top: 2% !important;
+  margin-bottom: 2% !important;
+}
+.separator-line {
+  height: 2px;
+  margin: 0 auto;
+  width: 50px;
+  margin: 3% auto;
+}
+.bg-black {
+  background: #000000 !important;
+}
+
+.no-margin-lr {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
+
+.titleTwo {
+  font-weight: 700;
+  line-height: 45px;
+  text-transform: uppercase;
+  margin: 0;
+  padding: 0;
+  color: #000;
+  font-size: 36px;
+  letter-spacing: 1px;
+  font-family: inherit;
+  line-height: 1.1;
+  text-align: left;
+}
+
+.text-med {
+  font-size: 14px !important;
+  line-height: 26px !important;
+  text-align: left;
+}
+.text-med-two {
+  font-size: 14px !important;
+  line-height: 26px !important;
+  text-align: left;
+}
+p {
+  margin: 0 0 20px;
+}
+
+.first-component {
+  margin-bottom: 150px;
+}
+
+.imageOne {
+  width: 80%;
+}

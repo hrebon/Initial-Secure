@@ -1,0 +1,44 @@
+.tilte {
+  background-image: url("../../Image/bg.jpeg");
+  /* background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center top;
+  position: relative;
+  min-height: 570px;
+  width: 100%; */
+  height: 670px;
+  position: relative;
+  background-size: cover;
+  overflow: hidden;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.opacity-light {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  opacity: 0.5;
+  z-index: 1;
+  top: 0;
+  left: 0;
+}
+.bg {
+  background: #000000;
+}
+.header {
+  margin-top: 280px;
+  color: white !important;
+  text-align: center;
+}
+.main-title {
+  font-weight: bold;
+  font-size: 3.2rem;
+  color: white !important;
+  letter-spacing: 2px;
+}
+
+.white-text {
+  color: white !important;
+  letter-spacing: 1px;
+}
